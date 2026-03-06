@@ -5,7 +5,7 @@
 
   <br/><br/>
 
-  # Hi, I'm Damian 👋
+  # Hi, I'm Damian
   ### Frontend Domain Lead & Tech Lead @ SolDevelo
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://pl.linkedin.com/in/damian-szafranek-830b2286)
@@ -16,13 +16,13 @@
 
 ---
 
-## 🙋 About Me
+## About Me
 
 Software developer with nearly 15 years of experience, passionate about frontend technologies, AI, and building better digital experiences. I focus on accessibility audits, modernizing open source tools, and helping bring frontend solutions up to modern standards. I'm especially interested in how AI and thoughtful technology can make everyday work and life easier.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -33,7 +33,7 @@ Software developer with nearly 15 years of experience, passionate about frontend
 
 ---
 
-## 🌍 Open Source Involvement
+## Open Source Involvement
 
 I actively contribute to and support open source projects that make a real-world difference — particularly in global health and digital public infrastructure:
 
@@ -45,18 +45,18 @@ I actively contribute to and support open source projects that make a real-world
 
 ---
 
-## 💼 Services & Expertise
+## Services & Expertise
 
 Looking to solve a specific challenge? Here's where I can help directly through SolDevelo:
 
-- 🔍 [**Accessibility Audit**](https://soldevelo.com/services/accessibility-audit/) — Identify and fix barriers that exclude users from your product
-- ⚡ [**Frontend Modernization**](https://soldevelo.com/services/frontend-modernization/) — Bring legacy frontends up to modern standards without a full rewrite
-- 🤖 [**AI-Powered Data Processing**](https://soldevelo.com/services/ai-data-processing/) — Leverage AI to automate and enhance your data workflows
-- 🧩 [**Custom Software Development**](https://soldevelo.com/services/custom-software-development/) — End-to-end software built for your specific problem
+- [**Accessibility Audit**](https://soldevelo.com/services/accessibility-audit/) — Identify and fix barriers that exclude users from your product
+- [**Frontend Modernization**](https://soldevelo.com/services/frontend-modernization/) — Bring legacy frontends up to modern standards without a full rewrite
+- [**AI-Powered Data Processing**](https://soldevelo.com/services/ai-data-processing/) — Leverage AI to automate and enhance your data workflows
+- [**Custom Software Development**](https://soldevelo.com/services/custom-software-development/) — End-to-end software built for your specific problem
 
 ---
 
-## 🎲 When I'm Not Coding...
+## When I'm Not Coding...
 
 I'm usually behind the GM screen running TTRPGs or playing Warhammer 40K as a competitive T'au Empire player.
 
