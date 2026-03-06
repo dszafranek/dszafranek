@@ -18,7 +18,7 @@
 
 ## About Me
 
-Software developer with nearly 15 years of experience, passionate about frontend technologies, AI, and building better digital experiences. I focus on accessibility audits, modernizing open source tools, and helping bring frontend solutions up to modern standards. I'm especially interested in how AI and thoughtful technology can make everyday work and life easier.
+Software developer with nearly 15 years of experience, passionate about frontend technologies, AI, and building better digital experiences. I focus on accessibility audits, modernizing open-source tools, and helping bring frontend solutions up to modern standards. I'm especially interested in how AI and thoughtful technology can make everyday work and life easier.
 
 ---
 
@@ -33,13 +33,13 @@ Software developer with nearly 15 years of experience, passionate about frontend
 
 ---
 
-## Open Source Involvement
+## Open-source Involvement
 
-I actively contribute to and support open source projects that make a real-world difference — particularly in global health and digital public infrastructure:
+I actively contribute to and support open-source projects that make a real-world difference, particularly in global health and digital public infrastructure:
 
 | Project | Description |
 |---|---|
-| [**OpenLMIS**](https://openlmis.org/) | Open source logistics management information system for health supply chains |
+| [**OpenLMIS**](https://openlmis.org/) | Open-source logistics management information system for health supply chains |
 | [**OpenMRS**](https://openmrs.org/) | Medical record system platform for resource-constrained environments |
 | [**GovStack**](https://www.govstack.global/) | Global initiative building reusable digital government building blocks |
 
@@ -47,7 +47,7 @@ I actively contribute to and support open source projects that make a real-world
 
 ## Services & Expertise
 
-Looking to solve a specific challenge? Here's where I can help directly through SolDevelo:
+Looking to solve a specific challenge? At SolDevelo, I help teams with:
 
 - [**Accessibility Audit**](https://soldevelo.com/services/accessibility-audit/) — Identify and fix barriers that exclude users from your product
 - [**Frontend Modernization**](https://soldevelo.com/services/frontend-modernization/) — Bring legacy frontends up to modern standards without a full rewrite
