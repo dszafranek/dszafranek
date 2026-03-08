@@ -18,7 +18,7 @@
 
 ## About Me
 
-Software developer with nearly 15 years of experience, passionate about frontend technologies, AI, and building better digital experiences. I focus on accessibility audits, modernizing open-source tools, and helping bring frontend solutions up to modern standards. I'm especially interested in how AI and thoughtful technology can make everyday work and life easier.
+Software developer with nearly 15 years of experience, passionate about frontend technologies and AI. I focus on accessibility audits, modernizing open-source tools, and helping bring frontend solutions up to modern standards.
 
 ---
 
@@ -33,18 +33,6 @@ Software developer with nearly 15 years of experience, passionate about frontend
 
 ---
 
-## Open-source Involvement
-
-I actively contribute to and support open-source projects that make a real-world difference, particularly in global health and digital public infrastructure:
-
-| Project | Description |
-|---|---|
-| [**OpenLMIS**](https://openlmis.org/) | Open-source logistics management information system for health supply chains |
-| [**OpenMRS**](https://openmrs.org/) | Medical record system platform for resource-constrained environments |
-| [**GovStack**](https://www.govstack.global/) | Global initiative building reusable digital government building blocks |
-
----
-
 ## Services & Expertise
 
 Looking to solve a specific challenge? At SolDevelo, I help teams with:
@@ -53,12 +41,6 @@ Looking to solve a specific challenge? At SolDevelo, I help teams with:
 - [**Frontend Modernization**](https://soldevelo.com/services/frontend-modernization/) — Bring legacy frontends up to modern standards without a full rewrite
 - [**AI-Powered Data Processing**](https://soldevelo.com/services/ai-data-processing/) — Leverage AI to automate and enhance your data workflows
 - [**Custom Software Development**](https://soldevelo.com/services/custom-software-development/) — End-to-end software built for your specific problem
-
----
-
-## When I'm Not Coding...
-
-I'm usually behind the GM screen running TTRPGs or playing Warhammer 40K as a competitive T'au Empire player.
 
 ---
 
